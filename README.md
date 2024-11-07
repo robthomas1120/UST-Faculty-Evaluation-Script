@@ -1,0 +1,1 @@
+after opening the inspect element on the professor that you want to evaluate just paste the code inside script.js to the console and it will automatically evaluate for you
